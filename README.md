@@ -63,7 +63,7 @@ The project demonstrates my ability to use **Python (Pandas, NumPy, Seaborn, Mat
 
 📊 **Dashboard Preview:**  
 
-![HR Dashboard](HR_Dashboard.png)  
+![HR Dashboard](HR_Dashboard.png)
 
 ---
 
